@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on r and python.
-- 📫 How to reach me @ loann.hoang@freenome.com
+- 📫 How to reach me @ 
 
 <!---
 loannhoa/loannhoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
